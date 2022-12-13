@@ -303,7 +303,7 @@ padding-bottom: 10px;
     font-size: 1.4rem;
     background:url("/public/images/IMG_0676.jpg");
     background-size: cover;
-   background-blend-mode:difference;
+  
    
 }
 
@@ -656,8 +656,9 @@ img {
         width: 480px;
     }
     .hero{
-        /* background-image:url("/public/images/mainbg1.PNG"); */
-        background-image:linear-gradient(190deg,#add3ff 10%,#5c84af 100% ,#bbb 100% ) ;
+        background-image:url("/public/images/peakpx\ \(9\).jpg");
+        background-size: cover;
+        /* background-image:linear-gradient(190deg,#add3ff 10%,#5c84af 100% ,#bbb 100% ) ; */
         background-size:180vh;
         background-position:65%;
         background-repeat: no-repeat;
