@@ -16,16 +16,16 @@ const Rcentprojects = () => {
                 </div>
                 <div class="project-info">
                     <h1><a href="#">Project 1 </a></h1>
-                    <h2>Coding is Love </h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget vehicula felis. Proin porta ullamcorper enim ac suscipit. Praesent libero magna, tempor sit amet justo semper,</p> 
+                    <h2>a Netflix clone </h2>
+                    <h3>I have crteated netflix clone website using omdb api</h3> 
                 </div>
                 
             </div>
             <div class="project-items">
                 <div class="project-info">
                     <h1><a href="#">Project 2</a></h1>
-                    <h2>Coding is Love</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget vehicula felis. Proin porta ullamcorper enim ac suscipit. Praesent libero magna, tempor sit amet justo semper,</p> 
+                    <h2>A Pokemon api based project</h2>
+                    <h3>i have created small project using pokemon api</h3>
                 </div>
                 <div class="project-img">
                     <img src="images/img1.jpg" alt="img"></img>
