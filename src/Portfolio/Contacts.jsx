@@ -55,6 +55,9 @@ const Contacts = () => {
             </div> <div class="social-icon">
                 <a href="#"><img src="images/icons8-whatsapp-50.png" alt=""></img></a>
             </div>
+            <div class="social-icon">
+                <a href="https://github.com/shantiprasad1339?tab=repositories"><img src="images/github-icon.png" alt=""></img></a>
+            </div>
         </div>
     </div>
 </div>

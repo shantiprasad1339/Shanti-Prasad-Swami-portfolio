@@ -9,7 +9,7 @@ const Aboutpage = () => {
     <div class="col-right"> 
         <h2>Front-end Developer</h2>
         <h3>Hello, My Name is Shantiprasad i Am a Front-end Developer. My Skills Are React js.,HTML,CSS,JAVASCRIPT,BOOTSTRAP,MATERIAL-UI. And I am Willing To Explore And Learn New Skills. </h3>
-        <a href="https://drive.google.com/file/d/1V86ICfNE625KK_fpyh9Y-yiMPhn7EwCK/view" class="btn">Download Resume</a>
+        <a href="https://drive.google.com/file/d/1LiHMTU63IafIcf_deBHjC3LVk4mxjkxD/view" class="btn">Download Resume</a>
     </div>
     <div class="col-left">
         <div class="about-img">
