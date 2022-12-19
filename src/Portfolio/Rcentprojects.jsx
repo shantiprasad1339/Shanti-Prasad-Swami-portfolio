@@ -31,6 +31,10 @@ const Rcentprojects = () => {
                     <img src="images/img1.jpg" alt="img"></img>
                 </div>
             </div>
+            <div className='tip'>
+            <h3>All Project Source Code Available On My GitHub Account</h3>
+            <h4>Thank-You</h4>
+            </div>
         </div>
          </div>
      </section>
