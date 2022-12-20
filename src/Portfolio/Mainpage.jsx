@@ -35,7 +35,7 @@ const Mainpage = () => {
           </div>
         </nav>
         <div className='neontext'>
-        <h1 className='neon ' data-text="SHANTIPRASAD">SHANTI PRASAD</h1>
+        <h1 className='neon ' data-text="SHANTI PRASAD">SHANTI PRASAD</h1>
         </div>
       </section>
 

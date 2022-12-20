@@ -28,12 +28,13 @@ const Rcentprojects = () => {
                     <h3>i have created small project using pokemon api</h3>
                 </div>
                 <div class="project-img">
-                    <img src="images/img1.jpg" alt="img"></img>
+                    <img src="images/pokemon.jpg" alt="img"></img>
                 </div>
             </div>
             <div className='tip'>
             <h3>All Project Source Code Available On My GitHub Account</h3>
             <h4>Thank-You</h4>
+           
             </div>
         </div>
          </div>

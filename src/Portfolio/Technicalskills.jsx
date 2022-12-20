@@ -15,25 +15,25 @@ const Technicalskills = () => {
                     <div className="icons">
                         <img src="images/html.png" alt="" className='image'/></div>
                      <h2> HTML Language </h2> 
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing . Proin porta ullamcorper enim ac suscipit. Praesent libero magna, tempor sit amet justo semper,</p> 
+                    <p>Lorem ipsum dolor sit amet,  . Proin porta ullamcorper enim ac suscipit. Praesent libero magna, tempor sit amet justo semper,</p> 
                     </div>
                    <div className="services-item">
                     <div className="icons">
                         <img src="images/CSS.png" alt="" ></img></div>
                      <h2>CSS Language </h2> 
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing s. Proin porta ullamcorper enim ac suscipit. Praesent libero magna, tempor sit amet justo semper,</p>
+                     <p>Lorem ipsum dolor sit amet, c. Proin porta ullamcorper enim ac suscipit. Praesent libero magna, tempor sit amet justo semper,</p>
                     </div>
                    <div className="services-item">
                     <div className="icons">
                         <img src="images/javascript.png" alt=""></img></div>
                      <h2>Java Script </h2> 
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing . Proin porta ullamcorper enim ac suscipit. Praesent libero magna, tempor sit amet justo semper,</p>      
+                     <p>Lorem ipsum dolor sit amet,  . Proin porta ullamcorper enim ac suscipit. Praesent libero magna, tempor sit amet justo semper,</p>      
                     </div>
                    <div className="services-item">
                     <div className="icons">
                         <img src="images/reactpng.png" alt=""></img></div>
                      <h2> React Js. </h2>  
-                    <p>I have good knowledge of Reactjs library.Including how to fetch api with axios,react hooks and react-router-dom etc.</p> 
+                    <p>I have good knowledge of Reactjs framework.Including how to fetch api with axios,react hooks and react-router-dom etc.</p> 
                    </div>
             </div>   
         </div>
