@@ -16,11 +16,11 @@ const Contacts = () => {
                     <h2>+91 7821805002</h2>
                 </div>
              </div>
-        <div className="contect-item">
+        <div className="contect-item Mail">
             <div className="contect-icon">
              <img src="images/Circle-icons-mail.png" alt="img"></img>
               </div>
-               <div className="contect-info">
+               <div className="contect-info ">
                 <h1>E-Mail</h1>
                 <h2><a href="#">shantiprasad1339@gmail.com</a> </h2>
               </div>

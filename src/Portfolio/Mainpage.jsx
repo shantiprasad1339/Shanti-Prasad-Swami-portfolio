@@ -6,10 +6,10 @@ const Mainpage = () => {
     <>
 
       <section id="header">
-        
+      
          
         <div className='neontext'>
-        <h1 className='neon ' data-text="SHANTI PRASAD">SHANTI PRASAD</h1>
+        <h1 className='neon '></h1>
         </div>
       </section>
 

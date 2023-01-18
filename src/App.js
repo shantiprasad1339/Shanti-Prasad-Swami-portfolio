@@ -1,25 +1,28 @@
-import logo from './logo.svg';
+import React from 'react';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './App.css';
-import Boots from './Boots';
-import Mainpage from './Portfolio/Mainpage';
-import './Portfolio/Portfoliocss.css'
-
-import Technicalskills from './Portfolio/Technicalskills';
-import Rcentprojects from './Portfolio/Rcentprojects';
-import Aboutpage from './Portfolio/Aboutpage';
-import Contacts from './Portfolio/Contacts';
+import Allfiles from './Portfolio/Allfiles';
 import Navbar from './Portfolio/Navbar';
+import Aboutpage from './Portfolio/Aboutpage';
+import Rcentprojects from './Portfolio/Rcentprojects';
+import Contacts from './Portfolio/Contacts';
+import Technicalskills from './Portfolio/Technicalskills';
 function App() {
+  
   return (
     <>
-   
-    <Navbar />
-    {/* // <Boots /> */}
-    <Mainpage />
-    <Technicalskills />
-    <Rcentprojects />
-    <Aboutpage />
-    <Contacts />
+ <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Navbar />}>
+          <Route index element={<Allfiles />} />
+          <Route path="/Technicalskills" element={<Technicalskills />} />
+          <Route path="/Rcentprojects" element={<Rcentprojects />} />
+          <Route path="/Aboutpage" element={<Aboutpage />} />
+          <Route path="/Contacts" element={<Contacts />} />
+          <Route path="/Contacts" element={<Contacts />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
 
     </>
   );
